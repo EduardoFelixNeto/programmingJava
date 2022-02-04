@@ -1,0 +1,11 @@
+h1{
+  font-family: verdana;
+  text-align: center;
+  border: 1px dashed lightgray;
+}
+canvas{
+  width: 300px;
+  height: 300px;
+  border: 3px outset gray;
+  padding: 2pt;
+}
